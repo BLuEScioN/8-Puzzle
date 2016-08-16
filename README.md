@@ -1,0 +1,2 @@
+# 8-Puzzle
+The 8-puzzle problem is a puzzle invented and popularized by Noyes Palmer Chapman in the 1870s. It is played on a 3-by-3 grid with 8 square tiles labeled 1 through 8 and a blank square. Your goal is to rearrange the tiles so that they are in order, using as few moves as possible. You are permitted to slide tiles horizontally or vertically into the blank square. This program solves an arbitrary N-puzzle problem (and its natural generalizations) using the A* search algorithm.
